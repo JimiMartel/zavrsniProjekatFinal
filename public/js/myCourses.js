@@ -2,7 +2,7 @@ const resultsElement = document.querySelector('.search--result--body .container'
 
 
 if(!activeUser){
-    window.location.href="file:///C:/Users/JMR/Desktop/ZavrsniProjekat(NV_02)/index.html";
+    window.location.href="https://jimimartel.github.io/zavrsniProjekatFinal/index.html";
 }else {
     listMyCourses();
 }
